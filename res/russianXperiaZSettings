@@ -1,0 +1,17 @@
+ <!-- yuga prefs -->
+    <string name="yuga_settings">Настройки Xperia Z</string>
+    <string name="yuga_powersave_bias_title">Настройки энергосбережения</string>
+    <string name="yuga_powersave_bias_help">Настраивает значения в режиме простоя. Большие значения будут держать процессор на низких частотах, значение "0" отключает эту функцию.\n\nРекомендуемые значения: 0% - 25%.</string>
+    <string name="yuga_fsc_title">Шкала яркости экрана</string>
+    <string name="yuga_fsc_help"> Изменения значений используются ядром для расчета яркости экрана.\n(По умолчанию: 19)</string>
+    <string name="yuga_vibralevel_title">Мощность вибрации</string>
+    <string name="yuga_vibralevel_help">Изменения мощности используются вибро-мотором. Меньшие значения могут сэкономить заряд батареи.\n(По умолчанию: 2900)</string>
+    <string name="yuga_numcores_title">Ядра процессора</string>
+    <string name="yuga_numcores_help1">Максимальное кол-во включенных ядер</string>
+    <string name="yuga_numcores_help2">Минимальное кол-во включенных ядер</string>
+    <string name="yuga_governor_title">Режим процессора</string>
+    <string name="yuga_doubletap_title">Включить пробуждение экрана двойным тапом</string>
+    <string name="yuga_volume_rocker_title">Включить переключатель музыки</string>
+    <string name="yuga_volume_rocker_summary">Используйте громкость +/- , чтобы переключать музыку при выкл. экране. </string>
+    <string name="yuga_doubletap_warning_title">Предупреждение</string>
+    <string name="yuga_doubletap_warning_text">Включение этой фунции может вызвать проблемы: ваш телефон может перестать реагировать на касания после включения - это вина панели экрана, а не прошивки!\nВы можете попробовать включить / выключить экран несколько раз. В худшем случае, понадобится принудительная перезагрузка. (Нажмите и удерживайте КНОПКУ ВКЛЮЧЕНИЯ+ГРОМКОСТЬ ВВЕРХ)</string>
